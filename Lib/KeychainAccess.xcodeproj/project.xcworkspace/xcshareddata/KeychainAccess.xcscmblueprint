@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AFADF01AFBA46DFD7A5AFD980110E89E8E63AACD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AFADF01AFBA46DFD7A5AFD980110E89E8E63AACD" : 9223372036854775807,
+    "9CA17979564F9CD6BC7FAEA561A9E50C331951C5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7FBE3A62-E55E-401F-8D91-BDE90F3FA33D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AFADF01AFBA46DFD7A5AFD980110E89E8E63AACD" : "KeychainAccess\/",
+    "9CA17979564F9CD6BC7FAEA561A9E50C331951C5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KeychainAccess",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Lib\/KeychainAccess.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:tkcss\/tkcJc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9CA17979564F9CD6BC7FAEA561A9E50C331951C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:bdonkey\/KeychainAccess.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AFADF01AFBA46DFD7A5AFD980110E89E8E63AACD"
+    }
+  ]
+}
